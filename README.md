@@ -19,3 +19,6 @@ Encontrará un jefe final, que desafiará todo lo adquirido durante su travesía
 3-Habilidades
 4-Objetos
 5-Estados personajes
+
+---Hemos creado las clases que pediais y estamos intentado hacer todo lo que pedis---
+---Continuaremos progresando en el proyecto---
